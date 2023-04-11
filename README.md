@@ -1,4 +1,7 @@
-etting up Jenkins with Github, Sonarqube, and Docker integration:
+
+![sonar](https://user-images.githubusercontent.com/56280489/231206806-91a361f2-4abd-464f-a6d4-5494fd28d60b.png)
+
+Setting up Jenkins with Github, Sonarqube, and Docker integration:
 
 Step 1: Create AWS EC2 Instances
 
